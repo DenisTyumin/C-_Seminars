@@ -30,14 +30,14 @@
 
 
 // Console.WriteLine("Введите число: ");
-// int number = Convert.ToInt32(Console.ReadLine());
-// if (number > 7 || number < 1)
+// int weekDayNumber = Convert.ToInt32(Console.ReadLine());
+// if (weekDayNumber > 7 || weekDayNumber < 1)
 // {
 //     Console.WriteLine("!ОШИБКА! Число должно быть от 1 до 7!!!");
 // }
 // else
 // {
-//     if (number == 6 || number == 7)
+//     if (weekDayNumber == 6 || weekDayNumber == 7)
 //     {
 //         Console.WriteLine("Выходной");
 //     }  
