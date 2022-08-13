@@ -6,16 +6,16 @@
 //Решил сделать сразу универсальную программу
 
 // Console.WriteLine("Введите число: ");
-// string number = Console.ReadLine();
+// string? number = Console.ReadLine();
 // int index = 0;
-// int size = number.Length - 1;
+// int rightSideIndex = number.Length - 1;
 // int iterrationCount = 0;
 // while (index < number.Length / 2)
 // {
-//     if (number[index] == number[size])
+//     if (number[index] == number[rightSideIndex])
 //     {
 //         index++;
-//         size--;
+//         rightSideIndex--;
 //         iterrationCount++;
 //     }
 //     else 
